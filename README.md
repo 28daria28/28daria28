@@ -4,10 +4,6 @@
 
 <br><br>
 
-
-
-<br>
-
 `💗 cs student 💗`
 
 </div>
