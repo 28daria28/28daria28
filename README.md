@@ -8,7 +8,7 @@
 
 <br>
 
-`💗 cs student · always building something 💗`
+`💗 cs student 💗`
 
 </div>
 
@@ -53,8 +53,6 @@
 ---
 
 <div align="center">
-
-`✿ thanks for stopping by ✿`
 
 </div>
 
