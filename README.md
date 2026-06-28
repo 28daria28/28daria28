@@ -5,22 +5,16 @@
 <br><br>
 
 `💗 cs student 💗`
-
-</div>
-
----
-
-### ⋆｡˚ ✧ toolbox ✧ ˚｡⋆
-
 ![C](https://img.shields.io/badge/C-ff69b4?style=flat-square&logo=c&logoColor=white&labelColor=ff1493)
 ![Haskell](https://img.shields.io/badge/Haskell-ff69b4?style=flat-square&logo=haskell&logoColor=white&labelColor=ff1493)
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=flat-square&logo=python&logoColor=white&labelColor=ff1493)
 ![Assembly](https://img.shields.io/badge/x86--64-ff69b4?style=flat-square&labelColor=ff1493)
 ![Scala](https://img.shields.io/badge/Scala-ff69b4?style=flat-square&logo=scala&logoColor=white&labelColor=ff1493)
 
+
 </div>
 
----
+
 
 <div align="center">
 
