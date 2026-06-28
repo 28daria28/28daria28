@@ -10,20 +10,6 @@
 
 ---
 
-<div align="center">
-
-### ⋆｡˚ ✧ about ✧ ˚｡⋆
-
-</div>
-
-```text
-> computer science student
-> i like making things that didn't exist yesterday
-> somewhere between code, music and language
-```
-
-<div align="center">
-
 ### ⋆｡˚ ✧ toolbox ✧ ˚｡⋆
 
 ![C](https://img.shields.io/badge/C-ff69b4?style=flat-square&logo=c&logoColor=white&labelColor=ff1493)
