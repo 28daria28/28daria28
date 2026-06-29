@@ -1,6 +1,5 @@
-
 <div align="center">
-<img src="https://github.com/user-attachments/assets/95515a8a-af77-4d6b-9e58-5de24a995cbd" width="100%" alt="banner" />
+<img width="1041" height="318" alt="ef7daa444b7b12851959ab29650f443bc" src="https://github.com/user-attachments/assets/3cc92b52-9d60-4bc1-89d0-831b34a78d91" />
 
 <code>💗 cs student 💗</code>
 <img src="https://img.shields.io/badge/C-ff69b4?style=flat-square&logo=c&logoColor=white&labelColor=ff1493" height="28" />
