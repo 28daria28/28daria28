@@ -14,7 +14,7 @@
 
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=28daria28&show_icons=true&theme=radical&hide_border=true&title_color=ff1493&icon_color=ff69b4" width="49%" /><img src="https://streak-stats-v2.vercel.app?user=28daria28&theme=radical&hide_border=true&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493" width="49%" />
+<img src="https://my-stats-nine-flax.vercel.app/api?username=28daria28&show_icons=true&theme=radical&hide_border=true&title_color=ff1493&icon_color=ff69b4" width="49%" /><img src="https://streak-stats-v2.vercel.app?user=28daria28&theme=radical&hide_border=true&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493" width="49%" />
 
 
 </div>
